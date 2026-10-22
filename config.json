@@ -58,6 +58,12 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build and extend a REST API with FastAPI, request validation, CRUD operations, and appropriate HTTP responses.",
+      "path": "assignments/building-rest-apis-with-fastapi"
     }
   ]
 }
