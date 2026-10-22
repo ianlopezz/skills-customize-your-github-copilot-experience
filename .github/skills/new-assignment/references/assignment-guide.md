@@ -18,7 +18,7 @@ Include starter code when:
 
 Skip it when the point is writing something from scratch (e.g., "write a script that…").
 
-## Example Topics by Difficultyy
+## Example Topics by Difficulty
 
 - **Beginner**: variables, conditionals, loops, string formatting
 - **Intermediate**: functions, lists/dicts, file I/O, basic classes
